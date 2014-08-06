@@ -11,13 +11,13 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>https://183.59.9.187/sbi/install.ipa</string>
+                   <string>https://raw.githubusercontent.com/yihudev/smartbi/master/sbi.plist</string>
                </dict>
                <dict>
                    <key>kind</key>
                    <string>display-image</string>
                    <key>url</key>
-                   <string>https://183.59.9.187/sbi/logo.png</string>
+                   <string>https://raw.githubusercontent.com/yihudev/smartbi/master/logo.png</string>
                </dict>
            </array>
            <key>metadata</key>
